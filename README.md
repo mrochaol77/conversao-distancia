@@ -19,4 +19,6 @@
 
 # Subir imagem lastest
 #  docker tag mrochaol/conversao-distancia:v1 mrochaol/conversao-distancia:latest
+
+# Seguindo boas praticas e tagueando como ultima versao (latest)
 #  docker push mrochaol/conversao-distancia:latest
